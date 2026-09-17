@@ -36,7 +36,7 @@ Editing, replacing, removing, or modifying scripts, systems, objects, configurat
 ## 5. Dragonia Branding
 
 **Must remain intact.**
-Original Dragonia branding elements (including Main Menu, presentation elements, credits, and identity components) may not be removed, hidden, or modified without prior approval.
+Original Dragonia branding elements (presentation elements, credits, and identity components) may not be removed, hidden, or modified without prior approval.
 
 ## 6. Monetization
 
