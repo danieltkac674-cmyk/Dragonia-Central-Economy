@@ -31,7 +31,7 @@ Editing, replacing, removing, or modifying scripts, systems, objects, configurat
 **Must remain intact.**
 Original Dragonia branding elements (including Main Menu, presentation elements, credits, and identity components) may not be removed, hidden, or modified without prior approval.
 
-## 6. VIP / Monetization
+## 6. Monetization
 
 **Allowed.**
 Server owners may supporter packages, cosmetic benefits, and similar server features as long as they follow DayZ monetization policies.
